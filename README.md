@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NukaCake
-- 👀 I’m interested in learning Programming Languages.
-- 🌱 I’m currently learning Java for Android Studio
-- 💞️ I’m looking to collaborate on creating indie games.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently studying DeepLearning.
+- 💞️ I’m looking to collaborate on creating ML apps.
 - 📫 How to reach me: email: evgenji2609@gmail.com
 
 <!---
